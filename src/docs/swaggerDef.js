@@ -13,7 +13,7 @@ const swaggerDef = {
   },
   servers: [
     {
-      url: `${config.port}/v1`,
+      url: `https://be-boilerplate.onrender.com/v1`,
     },
   ],
 };
